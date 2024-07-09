@@ -1,0 +1,206 @@
+.box2
+{ margin-top: 2px;
+    width: 100%;
+    height: 500px;
+    
+}
+.box2 img
+{ width: 100%;
+ height: 440px;
+ display: inline-block;
+ position: relative;
+ top: 2px; 
+ left: px;
+ filter: drop-shadow(5px 10px 20px rgba(0,0,0,0.6));
+}
+.box3
+{   margin-top:-4px ;
+    width: 100%;
+    height: 700px;
+
+}
+.box4
+{ 
+    width: 100%;
+    height: 520px;
+
+    display: inline-block;
+
+}
+.box5
+{
+    margin-top:-4px ;
+    width: 100%;
+    height: 430px;
+    
+    display: block;
+    position: relative;
+}
+.box6
+{ margin-top:-4px ;
+    width: 100%;
+    height: 370px;
+    border: 2px solid black;
+    background: #3F0D7B;
+
+}
+.headingbox3
+{ font-size: 20px;
+    font-style:  Georgia;
+     width: 50%;
+    height: 50px;
+   
+
+     display: block;
+    margin: auto;
+   
+
+}
+.main
+{
+    width: 90%;
+    height: 650px;
+    
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.abc
+{
+  display: inline-block;
+   
+    width: 300px;
+    height: 300px;
+    margin-left: 25px;
+    filter: drop-shadow(5px 10px 30px rgba(247, 245, 245, 0.6));
+}
+.a4
+{ width: 48%;
+    height: 400px;
+  
+    display:inline-block;
+    margin-left: 6px;
+    margin-top: 8px;
+    position: relative;
+    left: 60px;
+    top:-100px
+
+}
+.aa4
+{ width: 100%;
+ height: 300px;
+
+
+ left: 20px;
+}
+.box4 video
+{ position:relative ;
+    top: 10px;
+    left: 50px;
+    filter: drop-shadow(5px 15px 20px rgba(0, 0, 0, 0.6));
+}
+.headingbox5
+{
+    font-size: 20px;
+    font-style:  Georgia;
+     width: 60%;
+    height: 50px;
+     display: block;
+  margin-left: 30px;
+ 
+}
+.box5 video
+{   width: 330px;
+    height: 300px;
+    position:relative ;
+    top: 10px;
+    left: 10px;
+    filter: drop-shadow(5px 15px 20px rgba(0, 0, 0, 0.6));
+    
+}
+.butto
+{ 
+     margin-top:1%;
+    max-width: 200%;
+
+    position: relative;
+    
+    
+}
+
+
+.butto button
+{
+    background-color: black;
+    color: white;
+    border-radius: 60px;
+    height: 34px;
+    width: 130px;
+   position: absolute;
+   left: 45%;
+   filter: drop-shadow(10px 10px 15px rgba(10, 10, 10, 0.6));
+    
+}
+.a6
+{ display: inline-block;
+    position: absolute;
+    width: 50%;
+  height: 250px;
+ 
+  color: white;
+
+}
+#box6a
+{ position: relative;
+    top: 120px;
+    left: 25px;
+
+}
+#box6b img
+{ position: relative;
+    top: 35px;
+   left: 130px;
+  width: 330px;
+  height: 330px;
+}
+.butto1 button
+{
+    background-color: #3F0D7B;
+    color: white;
+    border-radius: 60px;
+    border: 2px solid black;
+    position: relative;
+    top: 30px;
+   
+    height: 44px;
+    width: 140px;
+ 
+
+  
+}
+.box7
+{width: 100%;
+  height: 150px;
+  border: 2px solid black;  
+  position: relative; 
+  background-color: black;
+
+}
+.box7a
+{ width: 70%;
+    height: 20px;
+    border: 2px solid black;
+    position: relative;
+    top: 90px;
+    left: 320px;
+    color:white;
+    
+  
+}
+.box7 img
+{ position: relative;
+   left: 47%; 
+   height: 90px;
+   width: 90px; 
+     
+}
